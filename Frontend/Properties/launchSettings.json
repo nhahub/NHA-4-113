@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run Frontend": {
+      "commandName": "Executable",
+      "executablePath": "cmd.exe",
+      "commandLineArgs": "/k npm run dev"
+    }
+  }
+}
